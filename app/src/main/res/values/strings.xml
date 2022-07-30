@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Guesser</string>
+    <string name="birthday_image">birthday image</string>
+    <string name="asking_text">Is your Birthday in one of these below?</string>
+    <string name="no_string">NO</string>
+    <string name="yes_string">YES</string>
+</resources>

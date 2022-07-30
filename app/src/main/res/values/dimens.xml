@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="birthday_image_width">120dp</dimen>
+    <dimen name="birthday_image_height">120dp</dimen>
+    <dimen name="birthday_image_margin">10dp</dimen>
+    <dimen name="dates_view_margin">10dp</dimen>
+    <dimen name="asking_text_margin">15dp</dimen>
+    <dimen name="dates_view_padding">30dp</dimen>
+</resources>
